@@ -1,0 +1,28 @@
+{
+"usuario":{
+	"nombre":"Nintenderos",
+	"alias":"@Nintenderos",
+	"correo":"nintenderos@gmail.com",
+	"foto":"logo.jpg"
+},
+"followers":
+[
+	
+	{
+	"nombre":"Cecilia",
+	"apellido":"López"
+	},
+	{
+	"nombre":"Pablo",
+	"apellido":"Reyes"
+	},
+	{
+	"nombre":"Marta",
+	"apellido":"Nuñez"
+	}
+],
+"contenido": "Nintendo parece haber presentado dos patentes de métodos de mejora de IA",
+"retweet": "50",
+"megusta": "90",
+"comentarios": ["interesante","ya era hora"]
+}

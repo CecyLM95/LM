@@ -1,0 +1,15 @@
+<Tweet>
+	<usuario> nombre="Nintenderos" alias="@Nintenderos" correo="nintenderos@gmail.com" foto="logo.jpg"</usuario>
+	<followers>
+		<follower>Cecilia López</follower>
+		<follower>Pablo Reyes</follower>
+		<follower>Marta Nuñez</follower>
+	</followers>
+	<contenido> Nintendo parece haber presentado dos patentes de métodos de mejora de IA </contenido>
+	<retweets>50</retweets>
+	<megusta>90</megusta>
+	<comentarios>
+		<comentario>Interesante</comentario>
+		<comentario>Ya era hora</comentario>
+	</comentarios>
+</Tweet>
